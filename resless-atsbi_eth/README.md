@@ -7,7 +7,7 @@ This folder contains all codes and data necessary to run CLEANED as a stand alon
 ## Structure of the tool 
 The tool consistens of 4 folders that need to be created on the computer 
 * core code of CLEANED direcly available
-* 1-input : this folder contains all the data to be downloaded from https://drive.google.com/open?id=1Lw7S9S0msH_bEYLVuY4ws2l6vSEEOxqv  
+* 1-input : this folder contains all the data to be downloaded from https://drive.google.com/open?id=1aDR69hFNhCla7XKAqPfGZUOgjjifbCEH
 * 4-output : this folder is used to save the output of the CLEANED tool 
 * www : contains the images that are loaded into the R-shiny tool 
 
