@@ -20,18 +20,16 @@ The ReSLess project funded by the SAIRLA program of DFID, has parameterized the 
 The IMPACT-CLEANED linkage was funded by an internal PIM project, it links directly IMPACT results to CLEANED at national scale and allows to add environmenatal impacts to demand in animal source food changes.
 
 
-Each of the CLEANED tool comes with 5 folders.
+Each of the CLEANED tool comes with 4 folders.
 
-* input data (prepared and resampled for the study areas)
-* the CLEANED code in itself, this folder also contains the code for the Shiny interface.
-* ouput, this is where ouputs are stored when the model is run (empty on github)
- 
-
-In addition there is a folder folder intallation and documentation containing an explantion line for line of the code, also explaining how to install the code.
+* input data (a link is shared to that data)
+* the CLEANED code in itself, this folder also contains the code for the Shiny interface (for some version, the code come directly in the initial folder and not in a subfolder) 
+* ouput, this is where ouputs are stored when the model is run 
+* www is a folder containing images that are required by shiny (only for those tools that have a shiny interface)
 
 To run the code you will need the following packages : raster, shiny, shinydashboard, maptools, Rcolorbrewer, gridExtra and you will need to adjust the path to the cleaned folder in your computer, or in the shiny app code (named interface) or the user definition.
 
-Relevant documents explaining equations in the tool can be found in the documentation folder. 
+Relevant documents explaining equations in the tool can be found in the documentation folder (https://github.com/ilri/CLEANED-R/tree/master/documenation). 
 All officially released documents related to cleaned can be found on the cgspace : https://cgspace.cgiar.org/handle/10568/33745 
 The CLEANED tool was originated through a Gates foundation funded project. 
 
