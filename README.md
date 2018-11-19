@@ -9,7 +9,7 @@ CLEANED-R needs to be adjusted for the specific context in which it is used. Eac
 
 The following study areas are now available
 
-1. CLEANED-R-ReSLess-Bama_BFA
+1. CLEANED-R-ReSLess-Bama_BFA https://github.com/ilri/CLEANED-R/tree/master/resless-Bama_bfa
 1. CLEANED-R-ReSLess-Lushoto_TZA
 1. CLEANED-R-ReSLess-Atsbi_ETH
 1. CLEANED-R-IMPACT-TZA
