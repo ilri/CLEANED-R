@@ -5,14 +5,13 @@ This folder contains all codes and data necessary to run CLEANED as a stand alon
 * the expert interface (https://ilri.shinyapps.io/cleaned-r-resless-atsbi_eth_ex/). 
 
 ## Structure of the tool 
-The tool consistens of 4 folders that need to be created on the computer 
+The tool consistens of 3 folders that need to be created on the computer 
 * core code of CLEANED direcly available
 * 1-input : this folder contains all the data to be downloaded from https://drive.google.com/open?id=1aDR69hFNhCla7XKAqPfGZUOgjjifbCEH
 * 4-output : this folder is used to save the output of the CLEANED tool 
 * www : contains the images that are loaded into the R-shiny tool 
 
-## Core codes (in 3-cleaned)
-
+## Core codes 
 * interface in shiny: click on run app in R to start the interface comes in 3 versions 
   + based on presets for the transformation game (preset/vignettes) in English
   + expert version
