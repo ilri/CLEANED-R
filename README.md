@@ -15,9 +15,9 @@ The following study areas are now available
 1. CLEANED-R-IMPACT-TZA
 1. CLEANED-R-IMPACT-BFA
 
-The ReSLess project funded by the SAIRLA program of DFID, has parameterized the CLEANED tool at landscape scale for 3 study area, namely Bama in Bukina Faso, Lushoto in Tanzania and Atsbi in Ethiopia. These tools have been use in a learning space along with a game aiming at stakeholders to explore possible livestock future and negociate the best alternatives for their area. 
+The ReSLess project funded by the SAIRLA program of DFID and the Livestock CRP, has parameterized the CLEANED tool at landscape scale for 3 study area, namely Bama in Bukina Faso, Lushoto in Tanzania and Atsbi in Ethiopia. These tools have been use in a learning space along with a game aiming at stakeholders to explore possible livestock future and negociate the best alternatives for their area. This project is led by Stockholm Environment Institute in collaboration with ILRI.  
 
-The IMPACT-CLEANED linkage was funded by an internal PIM project, it links directly IMPACT results to CLEANED at national scale and allows to add environmenatal impacts to demand in animal source food changes.
+The IMPACT-CLEANED linkage was funded by PIM CRP, it links directly IMPACT results to CLEANED at national scale and allows to add environmenatal impacts to demand in animal source food changes.
 
 
 Each of the CLEANED tool comes with 4 folders.
