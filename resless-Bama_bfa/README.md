@@ -2,7 +2,7 @@
 
 This folder contains all codes and data necessary to run CLEANED as a stand alone on a computer. The code corresponds to the three shiny tools : 
 * The simplified version used in the workshop (https://ilri.shinyapps.io/cleaned-r-resless-bama_bfa/)
-* the same version in French (https://ilri.shinyapps.io/cleaned-r-resless-bama_bfa_f/) 
+* the same version in French (https://ilri.shinyapps.io/cleaned-r-resless-bama_bfa_f2/) 
 * the expert interface (https://ilri.shinyapps.io/cleaned-r-resless-bama_bfa_ex/). 
 
 ## Structure of the tool 
