@@ -1,7 +1,7 @@
 # CLEANED R code for Lushoto, Tanzania (ReSLess project) 
 
 This folder contains all codes and data necessary to run CLEANED as a stand alone on a computer. The code corresponds to the two shiny tools : 
-* The simplified version used in the workshop (https://ilri.shinyapps.io/cleaned-r-resless-lushoto_tza/)
+* The simplified version used in the workshop (https://ilri.shinyapps.io/cleaned-r-resless-lushoto-tza/)
 * the expert interface (https://ilri.shinyapps.io/cleaned-r-resless-lushoto_tza_ex/). 
 
 ## Structure of the tool 
