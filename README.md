@@ -12,7 +12,7 @@ The following study areas are now available
 1. CLEANED-R-ReSLess-Bama_BFA https://github.com/ilri/CLEANED-R/tree/master/resless-Bama_bfa
 1. CLEANED-R-ReSLess-Lushoto_TZA : https://github.com/ilri/CLEANED-R/tree/master/resless-lushoto_tza
 1. CLEANED-R-ReSLess-Atsbi_ETH https://github.com/ilri/CLEANED-R/tree/master/resless-atsbi_eth
-1. CLEANED-R-IMPACT-TZA
+1. CLEANED-R-IMPACT-TZA https://github.com/ilri/CLEANED-R/tree/master/IMPACT-TZA
 1. CLEANED-R-IMPACT-BFA
 
 The ReSLess project funded by the SAIRLA program of DFID and the Livestock CRP, has parameterized the CLEANED tool at landscape scale for 3 study area, namely Bama in Bukina Faso, Lushoto in Tanzania and Atsbi in Ethiopia. These tools have been use in a learning space along with a game aiming at stakeholders to explore possible livestock future and negociate the best alternatives for their area. This project is led by Stockholm Environment Institute in collaboration with ILRI.  
