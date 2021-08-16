@@ -1,8 +1,8 @@
-#CLEANED R code for Burkina Faso linked to IMPACT 
+# CLEANED R code for Burkina Faso linked to IMPACT 
 
 This folder contains all codes and data necessary to run CLEANED as a stand alone on a computer. 
 
-##Structure of the tool
+## Structure of the tool
 
 The tool consistens of 5 folders that need to be created on the computer
 
@@ -10,7 +10,7 @@ The tool consistens of 5 folders that need to be created on the computer
     3-cleaned : this folder contains the core code of CLEANED
     4-output : this folder is used to save the output of the CLEANED tool
     
-##Core codes (in 3-cleaned)
+## Core codes (in 3-cleaned)
 
    
     0-user definition (manual interface)
