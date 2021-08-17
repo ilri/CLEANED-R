@@ -30,6 +30,6 @@ Each of the CLEANED tool comes with 4 folders.
 To run the code you will need the following packages : raster, shiny, shinydashboard, maptools, Rcolorbrewer, gridExtra and you will need to adjust the path to the cleaned folder in your computer, or in the shiny app code (named interface) or the user definition.
 
 Relevant documents explaining equations in the tool can be found in the documentation folder (https://github.com/ilri/CLEANED-R/tree/master/documenation). 
-All officially released documents related to cleaned can be found on the cgspace : https://cgspace.cgiar.org/handle/10568/33745 
+All officially released documents related to cleaned can be found on CGSpace: https://hdl.handle.net/10568/33745
 The CLEANED tool was originated through a Gates foundation funded project. 
 
